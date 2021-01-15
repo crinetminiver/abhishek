@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+}
+
+#abhishek {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-radius: 360px;
+    margin-top: 30px;
+    margin-right: 356px;
+}
+
+h1 {
+    color: aqua;
+    font-size: 35px;
+    font-family: 'Bubblegum Sans', cursive;
+    text-decoration: underline
+}
+
+#blue {
+    background: linear-gradient(#3366ff 0%, #002db3 100%);
+    padding: 100px
+}
+
+#uh {
+    color: #3366ff;
+    font-family: 'Bubblegum Sans', cursive;
+    text-decoration: underline
+}
+
+#fre {
+    background: linear-gradient(#ffff33 0%, #ff471a 100%);
+    padding: 100px
+}
+
+#bur {
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 20px;
+}
+
+#ashish {
+    background: linear-gradient(#0f0f0a 0%, #000000 100%);
+    padding: 100px
+}
+
+#ash {
+    color: gray;
+}
+
+#app {
+    background: linear-gradient(#99e699 0%, #ffcc00 100%);
+    padding: 100px
+}
+
+#loc {
+    background: linear-gradient(#ff3385 0%, #ff0066 100%);
+    padding: 100px
+}
+
+#hert {
+    color: bisque
+}
+
+#geter {
+    background: linear-gradient(#99ffcc 0%, #4dffa6 100%);
+    padding: 100px
+}
+
+#sder {
+    height: 500px;
+    width: 500px
+}
+
+#yrt {
+    background: linear-gradient(#ccffff 0%, #99ffff 100%);
+    padding: 100px
+}
+
+#rte {
+    background: linear-gradient(#ff9980 0%, #ff704d 100%);
+    padding: 100px
+}
+
+.menu {
+    list-style: none;
+    margin-top: -70px;
+    margin-left: -100px;
+}
+
+.jiys {
+    float: left;
+    font-size: 20px;
+    font-family: fantasy;
+    padding: 10px;
+}
